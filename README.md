@@ -67,8 +67,16 @@ I combine classical techniques and modern AI tools to create scalable, impactful
 ## 📈 **GitHub Statistics:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh-coventry&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-coventry&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajesh-coventry&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-coventry&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajesh-coventry&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align= "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-coventry&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🚀 **Roadmap:**
