@@ -2,6 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20Everyone!&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
 
+<p align="left">
+  <a href="https://github.com/rajesh-coventry">
+    <img 
+      src="https://komarev.com/ghpvc/?username=rajesh-coventry&style=for-the-badge&color=red" 
+      alt="👀Profile views👀" 
+    />
+  </a>
+</p>
+
+
 ## 🧩 **About Me:**
 I am focused on solving real-world problems having expertise in **`data analysis`**, **`Machine Learning`** and **`deep learning`**.  
 My work extends to **`building modular AI systems`** using frameworks like **`LangChain`**, **`LlamaIndex`**, and **`CrewAI`**.
