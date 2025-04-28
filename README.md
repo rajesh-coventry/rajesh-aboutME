@@ -79,6 +79,14 @@ I combine classical techniques and modern AI tools to create scalable, impactful
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-coventry&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+
+## ✨ **Highlights:**
+📊 Performing data analysis on real-world, messy datasets.    
+🔬 Diving deeper into PyTorch and TensorFlow Core internals.    
+🧠 Building machine learning models with Scikit-learn and performing Deep Data Analysis.     
+🎮 Creating MCP Servers for experimental setups and prototyping ideas.      
+🤖 Developing Next-Gen AI Agents using LangChain, LlamaIndex, and CrewAI ecosystems.      
+
 ## 🚀 **Roadmap:**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&multiline=true&width=800&height=150&lines=💡+Developing+Strong+Analytical+Skills.;📈+Applying+ML+to+Production-Grade+Datasets.;🔬+Strengthening+Foundations+in+Deep+Learning.;🛠️+Building+Modular+AI-Apps+with+Agent+Frameworks.&colors=red,blue,green,yellow)
 
